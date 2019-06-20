@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-ziu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue cli plugin",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/bugszhou/vue-cli-plugin-ziu/issues"
   },
-  "homepage": "https://github.com/bugszhou/vue-cli-plugin-ziu#readme"
+  "homepage": "https://github.com/bugszhou/vue-cli-plugin-ziu#readme",
+  "dependencies": {
+    "glob": "^7.1.4",
+    "lodash": "^4.17.11",
+    "yaml": "^1.6.0"
+  }
 }
