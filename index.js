@@ -44,7 +44,7 @@ module.exports = (api, projectOptions) => {
         }
         args[0]['process.env'] = {
           ...env,
-          outData: JSON.stringify(envMergeData),
+          ENV_DATA: JSON.stringify(envMergeData),
         };
         return args;
       })
