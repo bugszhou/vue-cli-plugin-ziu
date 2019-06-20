@@ -1,0 +1,25 @@
+{
+  "name": "vue-cli-plugin-ziu",
+  "version": "1.0.0",
+  "description": "vue cli plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/vue-cli-plugin-ziu.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "plugin",
+    "ziu"
+  ],
+  "author": "bugszhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/vue-cli-plugin-ziu/issues"
+  },
+  "homepage": "https://github.com/bugszhou/vue-cli-plugin-ziu#readme"
+}
